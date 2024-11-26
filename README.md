@@ -1,4 +1,4 @@
-# Spotify clone
+# Groovy - Spotify clone
 
 [App is live here.](https://groovy-qsov.onrender.com/)
 
@@ -7,6 +7,7 @@
 - [Features](#features)
 - [How to use it](#how-to-use-it)
 - [Gallery](#gallery)
+- [Contact](#contact)
 
 Please be patient. I'm using free [onrender](https://render.com/) plan and it takes some time before the page fully loads.
 
@@ -51,57 +52,52 @@ To use my app you need to go through a few steps:
 - Log in to the [Spotify for developers](https://developer.spotify.com/) website with your spotify account. Make sure you are logged into [Spotify](https://spotify.com/) with the same account!
 - Go to the [Dashboard](https://developer.spotify.com/dashboard).
 
-  ![image](https://github.com/jakub-bartoszek-developer/Groovy/assets/113419864/86970941-f274-4ede-8643-5cbe27379343)
+  ![image](https://github.com/jakub-bartoszek-developer/groovy/assets/113419864/86970941-f274-4ede-8643-5cbe27379343)
 
 - Press [Create App](https://developer.spotify.com/dashboard/create).
 - You need to complete the form.
 - Make sure to paste link to my page (https://groovy-qsov.onrender.com) inside Redirect URI field and choose Web API.
 
-  ![image](https://github.com/jakub-bartoszek-developer/Groovy/assets/113419864/87c4e20d-b556-445a-9ecc-4afbb03b5f88)
+  ![image](https://github.com/jakub-bartoszek-developer/groovy/assets/113419864/87c4e20d-b556-445a-9ecc-4afbb03b5f88)
 
-  ![image](https://github.com/jakub-bartoszek-developer/Groovy/assets/113419864/2a55f383-06e2-4b8c-8c9e-5ab33d974113)
+  ![image](https://github.com/jakub-bartoszek-developer/groovy/assets/113419864/2a55f383-06e2-4b8c-8c9e-5ab33d974113)
 
 - Once you are on page with your created app, you have to go to Settings.
 
-  ![image](https://github.com/jakub-bartoszek-developer/Groovy/assets/113419864/cd94f33a-3fd3-4769-b3a9-b0efadd81b0e)
+  ![image](https://github.com/jakub-bartoszek-developer/groovy/assets/113419864/cd94f33a-3fd3-4769-b3a9-b0efadd81b0e)
 
 - Copy Client ID and Client Secret.
 
-  ![image](https://github.com/jakub-bartoszek-developer/Groovy/assets/113419864/4b4f12a2-ab5b-4b06-be8d-dd3a9ed54cf3)
+  ![image](https://github.com/jakub-bartoszek-developer/groovy/assets/113419864/4b4f12a2-ab5b-4b06-be8d-dd3a9ed54cf3)
 
 - And paste them in Login form inside my App.
 
-  ![image](https://github.com/jakub-bartoszek-developer/Groovy/assets/113419864/e62a2c54-a303-48fc-a14e-dba004114de2)
+  ![image](https://github.com/jakub-bartoszek-developer/groovy/assets/113419864/e62a2c54-a303-48fc-a14e-dba004114de2)
 
 - Remember that Client secret is sensitive. Do not share it!
 - If you are worried about it, you can reset it in Settings of your App.
 
-  ![image](https://github.com/jakub-bartoszek-developer/Groovy/assets/113419864/6cf8f5f2-3058-45ff-8337-0254f86ade5e)
+  ![image](https://github.com/jakub-bartoszek-developer/groovy/assets/113419864/6cf8f5f2-3058-45ff-8337-0254f86ade5e)
 
 ## Gallery
 - Homepage (Liked songs playlist and 5 recently listened tracks).
-  ![image](https://github.com/jakub-bartoszek/Groovy/assets/113419864/de2a3d0c-320b-46ad-ae10-f83770330fd0)
+  ![image](https://github.com/jakub-bartoszek/groovy/assets/113419864/de2a3d0c-320b-46ad-ae10-f83770330fd0)
 
 - Playlist
-   ![image](https://github.com/jakub-bartoszek/Groovy/assets/113419864/a16fc467-0e24-4f53-bb21-f895e4e22389)
+   ![image](https://github.com/jakub-bartoszek/groovy/assets/113419864/a16fc467-0e24-4f53-bb21-f895e4e22389)
 
 - Artist
-  ![image](https://github.com/jakub-bartoszek/Groovy/assets/113419864/fb8854a9-c2a9-4b79-9b16-72f90d7e7e6a)
+  ![image](https://github.com/jakub-bartoszek/groovy/assets/113419864/fb8854a9-c2a9-4b79-9b16-72f90d7e7e6a)
 
 - Search for song
-  ![image](https://github.com/jakub-bartoszek/Groovy/assets/113419864/b0d8c9da-682b-4bac-b6a9-759348eee914)
+  ![image](https://github.com/jakub-bartoszek/groovy/assets/113419864/b0d8c9da-682b-4bac-b6a9-759348eee914)
 
 - Search for artist
-  ![image](https://github.com/jakub-bartoszek/Groovy/assets/113419864/02ce2d80-aba9-4212-9998-5d5f5c1264d1)
+  ![image](https://github.com/jakub-bartoszek/groovy/assets/113419864/02ce2d80-aba9-4212-9998-5d5f5c1264d1)
 
+## Contact
+For issues, questions, or suggestions, please open an issue in the repository or contact:
 
+Email: jakub.bartoszek.dev@gmail.com
 
-
-
-
-
-
-
-
-
-  
+GitHub: [jakub-bartoszek](https://github.com/jakub-bartoszek)
