@@ -2,6 +2,9 @@
 
 [App is live here.](https://groovy-qsov.onrender.com/)
 
+Please be patient. I'm using free [onrender](https://render.com/) plan and it takes some time before the page fully loads.
+
+## Table of Contents
 - [How does it work](#how-does-it-work)
 - [Used technologies and libraries](#used-technologies-and-libraries)
 - [Features](#features)
@@ -9,7 +12,6 @@
 - [Gallery](#gallery)
 - [Contact](#contact)
 
-Please be patient. I'm using free [onrender](https://render.com/) plan and it takes some time before the page fully loads.
 
 ## How does it work
 
