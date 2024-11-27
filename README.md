@@ -8,7 +8,7 @@ Please be patient. I'm using free [onrender](https://render.com/) plan and it ta
 - [How does it work](#how-does-it-work)
 - [Used technologies and libraries](#used-technologies-and-libraries)
 - [Features](#features)
-- [Instalation](#instalation)
+- [How to use it](#how-to-use-it)
 - [Gallery](#gallery)
 - [Contact](#contact)
 
@@ -48,7 +48,7 @@ Groovy allows you to search for artists and songs. If you are Spotify Premium us
 - Working search, where you can search for artists and tracks.
 - Responsive styles
 
-## Instalation
+## How to use it
 
 To use my app you need to go through a few steps:
 - Log in to the [Spotify for developers](https://developer.spotify.com/) website with your spotify account. Make sure you are logged into [Spotify](https://spotify.com/) with the same account!
