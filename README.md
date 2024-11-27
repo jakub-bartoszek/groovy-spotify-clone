@@ -5,7 +5,7 @@
 - [How does it work](#how-does-it-work)
 - [Used technologies and libraries](#used-technologies-and-libraries)
 - [Features](#features)
-- [How to use it](#how-to-use-it)
+- [Instalation](#instalation)
 - [Gallery](#gallery)
 - [Contact](#contact)
 
@@ -46,7 +46,7 @@ Groovy allows you to search for artists and songs. If you are Spotify Premium us
 - Working search, where you can search for artists and tracks.
 - Responsive styles
 
-## How to use it
+## Instalation
 
 To use my app you need to go through a few steps:
 - Log in to the [Spotify for developers](https://developer.spotify.com/) website with your spotify account. Make sure you are logged into [Spotify](https://spotify.com/) with the same account!
@@ -96,8 +96,9 @@ To use my app you need to go through a few steps:
   ![image](https://github.com/jakub-bartoszek/groovy/assets/113419864/02ce2d80-aba9-4212-9998-5d5f5c1264d1)
 
 ## Contact
+
 For issues, questions, or suggestions, please open an issue in the repository or contact:
 
-Email: jakub.bartoszek.dev@gmail.com
-
-GitHub: [jakub-bartoszek](https://github.com/jakub-bartoszek)
+- Email: jakub.bartoszek.dev@gmail.com
+- Linkedin: [jbartoszek-dev](https://www.linkedin.com/in/jbartoszek-dev)
+- GitHub: [jakub-bartoszek](https://github.com/jakub-bartoszek)
